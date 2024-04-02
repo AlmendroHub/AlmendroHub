@@ -5,3 +5,7 @@
 
 
 ## About me 📔
+
+- Full Stack Developer
+- Team Lover
+- Experience Programming + 4 years
