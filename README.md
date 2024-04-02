@@ -5,10 +5,12 @@
 </div>
 
 
-## About me 📔🎓
+## About me 📔
 
 - 💻 Full Stack Developer
 - 💚 Team Worker
 - :octocat: Programming Experience & Skills
 - 🔝 Autodidact
-- 🛅 Committed to the company
+- 🎓 Study Certificates
+- 🛅 Committed to the Company
+  
