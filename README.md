@@ -8,5 +8,6 @@
 
 - 💻 Full Stack Developer
 - 💚 Team Worker
-- :octocat: Experience Programming
+- :octocat: Programming Experience & Skills
 - 🔝 Autodidact
+- 🛅 Committed to the company
