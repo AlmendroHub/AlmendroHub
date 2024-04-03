@@ -5,7 +5,8 @@
 
 
 
-## About me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-almendro-322488209)📔
+## About me 📔 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-almendro-322488209)
+
 
 - 💻 Full Stack Developer
 - 💚 Team Worker
