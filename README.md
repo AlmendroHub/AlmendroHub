@@ -69,7 +69,7 @@
     <div align="center">
       <h3>✅ About The Project ✅</h3>
       <p>
-       Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the         users can create, edit or delete their articles/products.
+       Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the         users can create, edit or delete their articles/products 📝
       </p>
     </div>
   </td>                                                                 
