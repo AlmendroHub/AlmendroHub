@@ -6,8 +6,6 @@
 
 ## About Me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-almendro-322488209)
 
-
-
 - 💻 Full Stack Developer
 - 💚 Team Worker
 - :octocat: Programming Experience & Skills
@@ -15,3 +13,11 @@
 - 🎓 Certified Studies
 - 🛅 Committed to the Company
   
+## *Top* Projects 
+<table>
+  <tr>
+    <td width="50%">
+      
+    </td>
+  </tr>
+</table>
