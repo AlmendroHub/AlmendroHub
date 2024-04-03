@@ -17,32 +17,15 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Real Website 🌐 </h3>
-      <br>
-      <div align="center">
-        
-      </div>
-    </td>
-    
-    <td width="50%">
-      <h3 align="center">Administration Panel</h3>
-      <br>
-      <div align="center">
-        <img src="https://i.imgur.com/roeGCJn.png">
-      </div>
-    </td>
-</table>
-
-<table>
-  <tr>
   <td width="50%">
     <h3 align="center">Real Website 🌐 </h3>
     <div align="center">
-      <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android">          </a>
+      <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+        <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
+      </a>
       <p>
         <a href="" target="_blank">
-          <img src="https://i.imgur.com/roeGCJn.png">
+          <img src="">
         </a>
         <a href="" target="_blank">
           <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
