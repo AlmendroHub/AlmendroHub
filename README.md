@@ -28,7 +28,7 @@
     <br>
     <div align="center">
       <p>
-        🔽Programming Languages 🔽
+        🔽 Programming Languages 🔽
       </p>
       <br>
       <p>
@@ -42,7 +42,7 @@
     </div>
     <div align="center">
       <p>
-        🔹 About The Project 🔹
+        🔽 About The Project 🔽
       </p>
     </div>
   </td>
