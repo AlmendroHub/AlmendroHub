@@ -26,8 +26,8 @@
     </td>
     
     <td width="50%">
+      <h3 align="center">Administration Panel</h3>
       <br>
-      <h3 align="center">Real Website 🌐 </h3>
       <div align="center">
         <img src="https://i.imgur.com/roeGCJn.png">
       </div>
