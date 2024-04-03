@@ -14,7 +14,6 @@
 - 🛅 Committed to the Company
   
 ## Top Projects 🐲
-
 <table>
   <tr>
   <td width="50%">
@@ -42,6 +41,7 @@
       </p>
     </div>
   </td>
+    
   <td width="50%">
     <h2 align="center">Laravel Administrator Panel 💻</h2>
     <br>
@@ -72,9 +72,7 @@
        Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the         users can create, edit or delete their articles/products.
       </p>
     </div>
-  </td>
-
-                                                                            
+  </td>                                                                 
 </table>                                                                                 
 </div>
 <br>
