@@ -40,6 +40,11 @@
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </p>
     </div>
+    <div align="center">
+      <p>
+        🔹 About The Project 🔹
+      </p>
+    </div>
   </td>
 
                                                                             
