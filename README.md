@@ -62,6 +62,7 @@
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+        <img src=" https://img.shields.io/badge/Social%20Blade-B3382C.svg?style=for-the-badge&logo=Social-Blade&logoColor=white" alt="Blade">
       </p>
     </div>
     <div align="center">
