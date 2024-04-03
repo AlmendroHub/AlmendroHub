@@ -24,10 +24,11 @@
       <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
         <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
       </a>
-      <br>
+     
       <p>
         🔽Programming Languages 🔽
       </p>
+       <br>
       <p>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
