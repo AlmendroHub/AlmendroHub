@@ -24,7 +24,8 @@
       <a href="" target="_blank">
         <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
       </a>
-    <br>
+    </div>
+    <div align="center">
       <p>
         🔽Programming Languages 🔽
       </p>
