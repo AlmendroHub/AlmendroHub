@@ -13,7 +13,8 @@
 - 🎓 Certified Studies
 - 🛅 Committed to the Company
   
-<span style="color: green">Top Projects</span>
+## Top Projects ![image](https://github.com/AlmendroHub/AlmendroHub/assets/56845322/2b3398e7-3f83-47af-95eb-f7e9bb22b7f9)
+
 <table>
   <tr>
     <td width="50%">
