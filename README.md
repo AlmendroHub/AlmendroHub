@@ -44,7 +44,7 @@
   </td>
 
   <td width="50%">
-    <h2 align="center"> Laravel Administrator Panel 💻</h2>
+    <h2 align="center">Laravel Administrator Panel 💻</h2>
     <br>
     <div align="center">
       <a href="" target="_blank">
@@ -70,7 +70,7 @@
     <div align="center">
       <h3>✅ About The Project ✅</h3>
       <p>
-       
+       Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the         users can create, edit or delete their articles/products.
       </p>
     </div>
   </td>
