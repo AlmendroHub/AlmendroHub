@@ -16,10 +16,21 @@
 ## Top Projects 🐲
 
 <table>
+  # Table of the project nº 1
   <tr>
     <td width="50%">
       <h3 align="center">Real Website 🌐 </h3>
-      <img src="https://i.imgur.com/roeGCJn.png">
+      <div align="center">
+        <img src="https://i.imgur.com/roeGCJn.png">
+      </div>
+    </td>
+    
+    <td width="50%">
+      <br>
+      <h3 align="center">Real Website 🌐 </h3>
+      <div align="center">
+        <img src="https://i.imgur.com/roeGCJn.png">
+      </div>
     </td>
   </tr>
 </table>
