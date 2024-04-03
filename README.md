@@ -13,7 +13,7 @@
 - 🎓 Certified Studies
 - 🛅 Committed to the Company
   
-## *Top* Projects 
+## <span style="color: green">Top Projects</span>
 <table>
   <tr>
     <td width="50%">
