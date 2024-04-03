@@ -44,11 +44,11 @@
   </td>
 
   <td width="50%">
-    <h2 align="center">Real Website 🌐</h2>
+    <h2 align="center"> Laravel Administrator Panel 💻</h2>
     <br>
     <div align="center">
-      <a href="https://medicinaesteticadrjan.com/" target="_blank">
-        <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
+      <a href="" target="_blank">
+        <img src="" width="400" alt="Laravel Administrator Panel">          
       </a>
     </div>
     <div align="center">
@@ -59,6 +59,9 @@
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
       </p>
     </div>
     <div align="center">
