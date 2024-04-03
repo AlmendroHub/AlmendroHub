@@ -16,7 +16,6 @@
 ## Top Projects 🐲
 
 <table>
-  # Table of the project nº 1
   <tr>
     <td width="50%">
       <h3 align="center">Real Website 🌐 </h3>
