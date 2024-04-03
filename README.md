@@ -42,7 +42,6 @@
       </p>
     </div>
   </td>
-
   <td width="50%">
     <h2 align="center">Laravel Administrator Panel 💻</h2>
     <br>
