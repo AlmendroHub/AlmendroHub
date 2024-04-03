@@ -38,7 +38,7 @@
     <div align="center">
       <h3>✅ About The Project ✅</h3>
       <p>
-        It's a real website where you can find every tratment....
+        It's a real website hosted in a hosting, where you can find all her info and treatments. I would also like to highlight that it's completely responsive and         everything was designed by me like the mockup, the code, the structure.... It was a laborious but satisfying project to complete :bowtie: 
       </p>
     </div>
   </td>
