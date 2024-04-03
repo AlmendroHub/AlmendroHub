@@ -18,7 +18,7 @@
 <table>
   <tr>
   <td width="50%">
-    <h2 align="center">Real Website 🌐 </h2>
+    <h1 align="center">Real Website 🌐 </h1>
     <br>
     <div align="center">
       <a href="" target="_blank">
