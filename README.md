@@ -48,7 +48,7 @@
     <br>
     <div align="center">
       <a href="" target="_blank">
-        <img src="" width="400" alt="Laravel Administrator Panel">          
+        <img src="https://i.imgur.com/I83LMnm.png" width="400" alt="Laravel Administrator Panel">          
       </a>
     </div>
     <div align="center">
