@@ -38,7 +38,7 @@
     <div align="center">
       <h3>🔽 About The Project 🔽</h3>
       <p>
-        It's a real website...
+        It's a real website where you can find every tratment....
       </p>
     </div>
   </td>
