@@ -21,7 +21,7 @@
     <h2 align="center">Real Website 🌐 </h2>
     <br>
     <div align="center">
-      <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+      <a href="" target="_blank">
         <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
       </a>
       <br>
