@@ -24,6 +24,7 @@
       <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
         <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
       </a>
+      <br>
       <p>
         🔽Programming Languages 🔽
       </p>
