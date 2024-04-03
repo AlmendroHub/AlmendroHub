@@ -32,5 +32,4 @@
         <img src="https://i.imgur.com/roeGCJn.png">
       </div>
     </td>
-  </tr>
 </table>
