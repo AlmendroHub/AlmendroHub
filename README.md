@@ -18,7 +18,7 @@
 <table>
   <tr>
   <td width="50%">
-    <h1 align="center">Real Website 🌐 </h1>
+    <h2 align="center">Real Website 🌐</h2>
     <br>
     <div align="center">
       <a href="" target="_blank">
@@ -35,9 +35,8 @@
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </p>
     </div>
-    <br>
     <div align="center">
-      <h4>🔽 About The Project 🔽</h4>
+      <h3>🔽 About The Project 🔽</h3>
       <p>
         It's a real website...
       </p>
