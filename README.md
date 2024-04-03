@@ -37,9 +37,7 @@
     </div>
     <br>
     <div align="center">
-      <p>
-        🔽 About The Project 🔽
-      </p>
+      <h4>🔽 About The Project 🔽</h4>
       <p>
         It's a real website...
       </p>
