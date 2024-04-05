@@ -75,7 +75,6 @@
        <a href="https://medicinaesteticadrjan.com/" target="_blank">
           <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
         </a>
-        
       </p>
     </div>
   </td>                                                                 
