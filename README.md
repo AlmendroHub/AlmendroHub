@@ -85,7 +85,7 @@
 <table>
   <tr>
   <td width="50%">
-   <h2 align="center">Real Website 🌐</h2>
+   <h2 align="center">Frontend Responsive Project 📱</h2>
       <br>
       <div align="center">
         <a href="https://medicinaesteticadrjan.com/" target="_blank">
