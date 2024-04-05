@@ -17,11 +17,11 @@
 <table>
   <tr>
   <td width="50%">
-    <h2 align="center">Real Website 🌐</h2>
+    <h2 align="center"></h2>
     <br>
     <div align="center">
       <a href="https://medicinaesteticadrjan.com/" target="_blank">
-        <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
+        <img src="" width="400" alt="">          
       </a>
     </div>
     <div align="center">
@@ -39,7 +39,7 @@
       <p>
         It's a real website hosted in a hosting, where you can find all her info and treatments. I would also like to highlight that it's completely responsive and         everything was designed by me, like the          mockup, the code, the structure.... It was a laborious but satisfying project to complete :bowtie: <br><br>
         <a href="https://medicinaesteticadrjan.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
+          <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="">
         </a>
       </p>
     </div>
