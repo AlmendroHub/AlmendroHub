@@ -72,7 +72,7 @@
       <h3>✅ About The Project ✅</h3>
       <p>
        Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the users can create, edit or delete their articles/products 📝 <br><br>
-       <a href="https://medicinaesteticadrjan.com/" target="_blank">
+       <a href="https://github.com/AlmendroHub/LaravelCRUD" target="_blank">
           <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
         </a>
       </p>
