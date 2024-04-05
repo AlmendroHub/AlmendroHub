@@ -105,7 +105,7 @@
       <div align="center">
         <h3>✅ About The Project ✅</h3>
         <p>
-          It's a real website hosted in a hosting, where you can find all her info and treatments. I would also like to highlight that it's completely responsive and         everything was designed by me, like the          mockup, the code, the structure.... It was a laborious but satisfying project to complete :bowtie: <br><br>
+          It's a simple responsive website of games with breakpoints to set the views for a different devices 🔮 <br><br>
           <a href="https://medicinaesteticadrjan.com/" target="_blank">
             <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
           </a>
