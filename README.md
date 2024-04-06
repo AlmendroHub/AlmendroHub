@@ -131,7 +131,7 @@
         <div align="center">
           <h3>✅ About The Project ✅</h3>
           <p>
-            It's simple frontend website based on a... <br><br>
+            It's another simple frontend website based on refactoring an old website. This project was carried out during the course to simulate a skysurf website and it's completly responsive 🌀 <br><br>
             <a href="https://almendrohub.github.io/ReformaDKPiles.github.io/" target="_blank">
               <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
             </a>
