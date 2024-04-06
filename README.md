@@ -14,7 +14,7 @@
 - 🛅 Punctual & Committed to the Company
   
 ## Top Projects 🐲
-<table vertical-align="top">
+<table>
   <tr>
   <td width="50%">
     <h2 align="center">Real Website 🌐</h2>
@@ -74,7 +74,7 @@
       <p>
        Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the users can create, edit or delete their articles/products 📝 <br><br>
        <a href="https://github.com/AlmendroHub/LaravelCRUD" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
+          <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
         </a>
       </p>
     </div>
@@ -103,18 +103,21 @@
         <h3>✅ About The Project ✅</h3>
         <p>
           It's a simple frontend responsive website of games with breakpoints to set the views for a different devices with the help of AJAX :calling: <br><br>
-          <a href="https://medicinaesteticadrjan.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
+          <a href="https://almendrohub.github.io/WebResponsive/" target="_blank">
+            <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+          </a>
+          <a href="https://github.com/AlmendroHub/WebResponsive" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-     <h2 align="center">Real Website 🌐</h2>
+     <h2 align="center"> </h2>
         <br>
         <div align="center">
-          <a href="https://medicinaesteticadrjan.com/" target="_blank">
-            <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
+          <a href="" target="_blank">
+            <img src="" width="400" alt="n">          
           </a>
         </div>
         <div align="center">
@@ -131,8 +134,8 @@
           <h3>✅ About The Project ✅</h3>
           <p>
             It's a real website hosted in a hosting, where you can find all her info and treatments. I would also like to highlight that it's completely responsive and         everything was designed by me, like the          mockup, the code, the structure.... It was a laborious but satisfying project to complete :bowtie: <br><br>
-            <a href="https://medicinaesteticadrjan.com/" target="_blank">
-              <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Medicina Estetica Dr.Jan">
+            <a href="" target="_blank">
+              <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
             </a>
           </p>
         </div>
