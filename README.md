@@ -117,7 +117,7 @@
         <br>
         <div align="center">
           <a href="https://almendrohub.github.io/ReformaDKPiles.github.io/" target="_blank">
-            <img src="" width="400" alt="">          
+            <img src="https://i.imgur.com/8CnBZhb.png" width="400" alt="DK Piles">          
           </a>
         </div>
         <div align="center">
