@@ -14,7 +14,7 @@
 - 🛅 Punctual & Committed to the Company
   
 ## Top Projects 🐲
-<table align="top">
+<table vertical-align="top">
   <tr>
   <td width="50%">
     <h2 align="center">Real Website 🌐</h2>
