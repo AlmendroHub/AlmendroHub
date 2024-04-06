@@ -49,7 +49,7 @@
     <h2 align="center">Laravel Administrator Panel 💻</h2>
     <br>
     <div align="center">
-      <a href="" target="_blank">
+      <a href="https://github.com/AlmendroHub/LaravelCRUD" target="_blank">
         <img src="https://i.imgur.com/I83LMnm.png" width="400" alt="Laravel Administrator Panel">          
       </a>
     </div>
@@ -89,7 +89,7 @@
       <br>
       <div align="center">
         <a href="https://medicinaesteticadrjan.com/" target="_blank">
-          <img src="https://i.imgur.com/roeGCJn.png" width="400" alt="Medicina Estetica Dr.Jan">          
+          <img src="https://i.imgur.com/yUbBB3p.png" width="400" alt="Web Responsive">          
         </a>
       </div>
       <div align="center">
