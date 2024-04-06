@@ -117,7 +117,7 @@
         <br>
         <div align="center">
           <a href="" target="_blank">
-            <img src="" width="400" alt="n">          
+            <img src="" width="400" alt="">          
           </a>
         </div>
         <div align="center">
