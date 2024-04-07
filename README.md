@@ -113,7 +113,7 @@
       </div>
     </td>
     <td width="50%">
-     <h2 align="center">Web Redesign DK Piles 🌊 </h2>
+     <h2 align="center">DK Piles Web Redesign 🌊 </h2>
         <br>
         <div align="center">
           <a href="https://almendrohub.github.io/ReformaDKPiles.github.io/" target="_blank">
