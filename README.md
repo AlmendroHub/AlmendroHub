@@ -70,7 +70,7 @@
       </p>
     </div>
     <div align="center">
-      <h3>✅ About The Project ✅</h3>
+      <h3>⬇️ About The Project ⬇️</h3>
       <p>
        Consists of a MVC architecture project in Laravel, in which a lot of technologies have been used together to create a simple administrator panel, where the users can create, edit or delete their articles/products 📝 <br><br>
        <a href="https://github.com/AlmendroHub/LaravelCRUD" target="_blank">
@@ -100,7 +100,7 @@
         </p>
       </div>
       <div align="center">
-        <h3>✅ About The Project ✅</h3>
+        <h3>⬇️ About The Project ⬇️</h3>
         <p>
           It's a simple frontend responsive website of games with breakpoints to set the views for a different devices with the help of AJAX :calling: <br><br>
           <a href="https://almendrohub.github.io/WebResponsive/" target="_blank">
@@ -129,7 +129,7 @@
           </p>
         </div>
         <div align="center">
-          <h3>✅ About The Project ✅</h3>
+          <h3>⬇️ About The Project ⬇️</h3>
           <p>
             It's another simple frontend website based on refactoring an old website. This project was carried out during the course to simulate a skysurf website and it's completly responsive 🌀 <br><br>
             <a href="https://almendrohub.github.io/ReformaDKPiles.github.io/" target="_blank">
