@@ -176,7 +176,7 @@
       <p>
          Basically, it's a project done with Blazor WebAssembly on .NET8, where a small sales system has been created to add, edit or delete the clients, always counting the quantities worked. <br><br>
         <a href="https://github.com/AlmendroHub/InventarioVentas" target="_blank">
-          <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Code">
+          <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Code">
         </a>
       </p>
     </div>
