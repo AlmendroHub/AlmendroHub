@@ -146,4 +146,42 @@
         </div>
       </td>
   </table>
+  <br>
+
+<table>
+  <tr>
+  <td width="50%">
+    <h2 align="center">Blazor WebAssembly on .NET8 👾</h2>
+    <br>
+    <div align="center">
+      <a href="https://github.com/AlmendroHub/InventarioVentas" target="_blank">
+        <img src="https://i.imgur.com/0FiFOHY.png" width="400" alt="Blazor WebAssembly on .NET8">          
+      </a>
+    </div>
+    <div align="center">
+      <h3>✅ Technologies Used ✅</h3>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+	      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+    	  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+	      <img src="https://img.shields.io/badge/LINQ-F38020.svg?style=for-the-badge&logo=Cloudflare-Pages&logoColor=white" alt="LINQ">
+	      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+	      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+      </p>
+    </div>
+    <div align="center">
+      <h3>⬇️ About The Project ⬇️</h3>
+      <p>
+         Basically, it's a project done with Blazor WebAssembly on .NET8, where a small sales system has been created to add, edit or delete the clients, always counting the quantities worked. <br><br>
+        <a href="https://github.com/AlmendroHub/InventarioVentas" target="_blank">
+          <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Code">
+        </a>
+      </p>
+    </div>
+  </td>
+</table>
+
+  
 
