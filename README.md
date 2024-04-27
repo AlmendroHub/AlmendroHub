@@ -11,7 +11,7 @@
 - :octocat: Programming Experience & Skills
 - 🔝 Autodidact
 - 🎓 Certified Studies
-- 🛅 Punctual & Committed to the Company
+- 🛅 Hard Worker & Punctual & Committed to the Company
   
 ## Top Projects 🐲
 <table>
