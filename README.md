@@ -181,6 +181,37 @@
       </p>
     </div>
   </td>
+	  
+  <td width="50%">
+    <h2 align="center">Personal Porfolio 2.0 📗</h2>
+    <br>
+    <div align="center">
+      <a href="" target="_blank">
+        <img src="" width="400" alt="Almendro Personal Portfolio">          
+      </a>
+    </div>
+    <div align="center">
+      <h3>✅ Technologies Used ✅</h3>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+        <! -- <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> --> 
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+      </p>
+    </div>
+    <div align="center">
+      <h3>⬇️ About The Project ⬇️</h3>
+      <p>
+        It's my personal portfolio where I show an overview about me, with my frontend/backend skills 🌠. Still under development, because I want to add a couple of elements and make it full responsive 🚧
+	<br><br>
+       <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+        </a>
+      </p>
+    </div>
+  </td>
 </table>
 
   
