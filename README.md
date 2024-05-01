@@ -186,8 +186,8 @@
     <h2 align="center">Personal Porfolio 2.0 📗</h2>
     <br>
     <div align="center">
-      <a href="" target="_blank">
-        <img src="" width="400" alt="Almendro Personal Portfolio">          
+      <a href="https://almendrohub.github.io/AlmendroPortfolio/" target="_blank">
+        <img src="https://i.imgur.com/kuDrAsf.png" width="400" alt="Almendro Personal Portfolio">          
       </a>
     </div>
     <div align="center">
