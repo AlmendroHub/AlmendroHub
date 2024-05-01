@@ -204,10 +204,13 @@
       <h3>⬇️ About The Project ⬇️</h3>
       <p>
         It's my personal portfolio where I show an overview about me, with my frontend/backend skills 🌠. Still under development, because I want to add a couple of elements and make it full responsive 🚧
-	<br><br>
+	<br><br>   
+	<a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+        </a>
        <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Code-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
-        </a>
+        </a>+
       </p>
     </div>
   </td>
